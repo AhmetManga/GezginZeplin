@@ -1,0 +1,6 @@
+Baslangic : 33 Bitis : 6 Yolcu Sayisi : 44
+Cevap: 44 / 1 Kişi: 1000
+ Elde Edilen Kar: 39439,57₺ 
+ Toplam Km: 456,043
+mesafe / baslangic lat-long / bitis lat-long / baslangic - bitis
+380,219 / 36,8120945 - 34,6414558 / 39,9333927 - 32,8597381 / 33 - 6

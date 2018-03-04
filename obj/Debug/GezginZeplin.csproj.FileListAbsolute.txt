@@ -1,0 +1,9 @@
+C:\Users\Ahmet\Desktop\c# projeleri\GezginZeplin\bin\Debug\GezginZeplin.exe.config
+C:\Users\Ahmet\Desktop\c# projeleri\GezginZeplin\bin\Debug\GezginZeplin.exe
+C:\Users\Ahmet\Desktop\c# projeleri\GezginZeplin\bin\Debug\GezginZeplin.pdb
+C:\Users\Ahmet\Desktop\c# projeleri\GezginZeplin\obj\Debug\GezginZeplin.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\c# projeleri\GezginZeplin\obj\Debug\GezginZeplin.Form1.resources
+C:\Users\Ahmet\Desktop\c# projeleri\GezginZeplin\obj\Debug\GezginZeplin.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\c# projeleri\GezginZeplin\obj\Debug\GezginZeplin.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\c# projeleri\GezginZeplin\obj\Debug\GezginZeplin.exe
+C:\Users\Ahmet\Desktop\c# projeleri\GezginZeplin\obj\Debug\GezginZeplin.pdb

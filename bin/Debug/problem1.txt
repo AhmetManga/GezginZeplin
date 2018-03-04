@@ -1,0 +1,6 @@
+Baslangic : 33 Bitis : 6 Yolcu Sayisi : 10
+Toplam elde edilen kar (1 kişi) : 602,8725 Toplam km : 401,915
+mesafe / baslangic lat-long / bitis lat-long / baslangic - bitis
+128,439 / 36,8120945 - 34,6414558 / 37,9667 - 34,6833 / 33 - 51
+72,045 / 37,9667 - 34,6833 / 38,3687 - 34,037 / 51 - 68
+201,431 / 38,3687 - 34,037 / 39,9333927 - 32,8597381 / 68 - 6
